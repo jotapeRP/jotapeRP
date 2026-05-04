@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm João Paulo 👋
 
-<!--
-**jotapeRP/jotapeRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-end Developer focused on building modern web applications with React.js and JavaScript.
 
-Here are some ideas to get you started:
+🚀 I develop real-world projects with authentication, APIs, and responsive design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- React.js
+- JavaScript
+- HTML & CSS
+- Tailwind CSS
+- Git & GitHub
+
+## 📌 Featured Projects
+- Air Conditioning Error Diagnosis System
+- Management System (React)
+- Todo App with Tailwind
+
+## 🌐 Portfolio
+https://portfolio-beta-sage-51.vercel.app/
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/joão-paulo-prestes-b87304245/
